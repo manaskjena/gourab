@@ -171,10 +171,15 @@ input::placeholder{
         background-image: none;
         background-color: aliceblue;
     }
+    .calculator{
+        
+     height:600px;
+    }
 }
 @media (max-width:415px) {
     .calculator{
-        width: 380px;
+        width: 370px;
     column-gap: 10px;
+     height:600px;
     }
 }
